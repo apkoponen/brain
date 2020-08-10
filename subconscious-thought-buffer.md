@@ -1,10 +1,14 @@
+---
+image: https://hcti.io/v1/image/ebef5742-2506-4a67-a6b9-4c387d7bf64b
+---
+
 # Subconscious Thought Buffer
 
 Subconscious thought buffer is the thoughts "bubbling under" in the subconsciousness that you haven't yet had time to think through or put into words.
 
 Your subconscious thought buffer starts to fill up when you're constantly under [[cognitive-load]], or you have defenses that prevent the thoughts from surfacing.
 
-If you do not regularly clear your subconscious thought buffer, you end up in situations where you do not understand your behavior. You might be grumpy, discontent, or unmotivated for no apparent reason. In the worst case, you might engage in harmful escapism that only prevents your buffer from clearing. 
+If you do not regularly clear your subconscious thought buffer, you end up in situations where you do not understand your behavior. You might be grumpy, discontent, or unmotivated for no apparent reason. In the worst case, you might engage in harmful escapism that only prevents your buffer from clearing.
 
 When you clear your buffer and put the thoughts into words, you understand why you're feeling or behaving the way you do.
 

@@ -1,3 +1,7 @@
+---
+image: https://hcti.io/v1/image/bd17a339-aff5-4f28-9f5a-c8a51a41d10e
+---
+
 # Streaking
 
 Streaking is an addictive way to keep up good habits. I use [the Streaks App](https://streaksapp.com/) on my iPhone to track my streaks.

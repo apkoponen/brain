@@ -1,3 +1,7 @@
+---
+image: https://hcti.io/v1/image/e69364e6-9879-42d8-8c91-f947f6ff260f
+---
+
 # Tuning Your Job Description
 
 Tuning your job description refers to changing your current work description, together with your superior, to feel more engaged at work.

@@ -1,3 +1,7 @@
+---
+image: https://hcti.io/v1/image/a5aa8994-7cbd-4162-983c-acf3426a9b6e
+---
+
 # 100 Days of Code
 
 The [#100DaysOfCode](https://www.100daysofcode.com/) challenge is great for anyone, who wants to start coding in their free time. Publicly committing to a goal and reporting the results is a great motivators.

@@ -1,2 +1,4 @@
 graphics/
+.env
 todos.md
+node_modules

@@ -1,3 +1,7 @@
+---
+image: https://hcti.io/v1/image/1cfbfc05-c4be-4efb-a431-4ddd3de5879b
+---
+
 # US Big Co World Dominance
 
 US Big Co world dominance refers to the way Google, Facebook, Apple, and Amazon control search, social media, mobile phones, and eCommerce in the western world and thought that dominance US has financial dominance over most of the (western) society.

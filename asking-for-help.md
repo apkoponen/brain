@@ -1,3 +1,7 @@
+---
+image: https://hcti.io/v1/image/db5aa28d-0144-4929-bd4a-c3c76cdc1bb2
+---
+
 # Asking for Help
 
 The most important thing you should know about asking for help is that great things happen when you do. In general, people are very kind and eager to help.
