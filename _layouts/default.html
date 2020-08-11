@@ -14,8 +14,10 @@
     <meta name="twitter:title" content="{{ page.title }}" />
     {% if page.image %}
     <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="twitter:image:alt" content='Text "{{ page.title }}" with a thought bubble and a poopy-eyed "A-P's" brain avatar.' >
     {% else %}
     <meta name="twitter:image" content="{{ site.url }}/assets/img/social.png">
+    <meta name="twitter:image:alt" content="A poopy-eyed brain emoji." >
     {% endif %}
     <meta
     name="twitter:description"
